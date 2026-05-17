@@ -1,5 +1,5 @@
 # Epitaph
-ethos scary obfuscator 
+Ethos scary obfuscator 
 
 - Cracking : BynBang
 - Dumping : Cha0s
